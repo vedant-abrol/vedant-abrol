@@ -1,12 +1,59 @@
 # 💫 About Me:
-Software Engineer and Data Analyst with expertise in full-stack development using Java, Scala, C++, and Python, skilled in building scalable APIs and optimizing database by performance tuning SQL/NoSQL. Proficient in cloud technologies like AWS, containerization with Docker, and continuous integration with Jenkins, ensuring efficient deployment pipelines, data processing, and high system reliability.
-<br>TECHNICAL EXPERIENCE<br>
-Software Engineer Intern, SCIENAPTIC AI                                                                                                                                                    08/2022 – 08/2023<br>
-•	Enhanced Scienaptic’s AI-driven credit underwriting platform by implementing efficient back-end logic and responsive front-end features.<br>•	Improved processing efficiency by 15% by optimizing complex queries and code structures in large-scale graph databases leading to faster data retrieval and processing<br>•	Designed, implemented, and validated scalable APIs to integrate real-time data pipelines for financial institutions, reducing loan approval time by 30% and ensuring seamless functionality across services using Postman for testing<br>•	Integrated machine learning models into the decisioning platform, enhancing predictive accuracy and risk management<br>•	Conducted performance tuning and stress testing on the credit assessment pipeline, ensuring system reliability and scalability under high transaction loads<br>•	Built and maintained CI/CD pipelines to streamline deployment processes, reducing manual intervention and improving code delivery speed by 20%<br>•	Worked closely with the cross-functional teams to translate business requirements into technical solutions, ensuring compliance with industry standards and regulations<br>•	Tech Stack: Java, Scala, Play Framework, Cassandra, JanusGraph, Gremlin, Postman<br>
-RESEARCH INTERNSHIPS<br>Summer Research Intern, NEW YORK UNIVERSITY(NYU)                                                                                                                         06/2022 – 07/2022<br>
-•	Project Title: Additive Manufacturing Cybersecurity<br>•	Topic: Direct Digital Manufacturing with 3D Printing: Designing for Security under Prof. Nikhil Gupta (NYU Tandon School of Engineering)<br>•	Secured/Encrypted CAD files and addressed vulnerabilities in additive manufacturing to prevent cyber-attacks, participated in Hack3D<br>
-FREELANCING <br>Freelance Coder, OUTLIER AI                                                                                                                                                                            <br>
-•	Evaluated AI-generated code, developed and managed the SQL pipeline for Flamingo Coding's MultiTurn Deviations<br>•	Conducted performance evaluation of AI-generated code, providing feedback based on real-world use cases<br>•	Analysed large datasets to extract actionable insights, enhancing the model accuracy of AI applications<br>TECHNICAL SKILLS<br>Languages and Frameworks: Java, Scala, Python, C++, C, Play Framework, .NET, HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJS<br>Libraries:  Gremlin, JanusGraph, MongoDB, MySQL, Cassandra, AWS SDK, Rekognition, SQS, Pandas, NumPy<br>Tools: Postman, Git, Docker, Kubernetes, CI/CD (Jenkins), Apache Tomcat, AWS (EC2, S3, SQS, Lambda), SQL Developer, Terraform, Maven
+I am a Software Engineer and Data Analyst with expertise in full-stack development, specializing in Java, Scala, C++, and Python. My focus is on building scalable APIs, optimizing databases through SQL/NoSQL tuning, and leveraging cloud technologies. I am proficient in AWS, Docker, and CI/CD with Jenkins to ensure efficient deployment pipelines, data processing, and high system reliability.
+
+---
+
+## 🛠️ Technical Experience
+
+**Software Engineer Intern**  
+*Scienaptic AI*  
+08/2022 – 08/2023
+
+- Enhanced Scienaptic’s AI-driven credit underwriting platform by implementing efficient back-end logic and responsive front-end features.
+- Improved processing efficiency by 15% by optimizing complex queries and code structures in large-scale graph databases, leading to faster data retrieval and processing.
+- Designed, implemented, and validated scalable APIs to integrate real-time data pipelines for financial institutions, reducing loan approval time by 30% and ensuring seamless functionality across services, using Postman for testing.
+- Integrated machine learning models into the decisioning platform, enhancing predictive accuracy and risk management.
+- Conducted performance tuning and stress testing on the credit assessment pipeline, ensuring system reliability and scalability under high transaction loads.
+- Built and maintained CI/CD pipelines to streamline deployment processes, reducing manual intervention and improving code delivery speed by 20%.
+- Collaborated with cross-functional teams to translate business requirements into technical solutions, ensuring compliance with industry standards and regulations.
+
+*Tech Stack:* Java, Scala, Play Framework, Cassandra, JanusGraph, Gremlin, Postman
+
+---
+
+## 📚 Research Internships
+
+**Summer Research Intern**  
+*New York University (NYU)*  
+06/2022 – 07/2022
+
+- **Project Title:** Additive Manufacturing Cybersecurity
+- **Topic:** Direct Digital Manufacturing with 3D Printing - Designing for Security  
+  Secured/encrypted CAD files and addressed vulnerabilities in additive manufacturing to prevent cyber-attacks. Participated in Hack3D.
+
+---
+
+## 🧑‍💻 Freelancing
+
+**Freelance Coder**  
+*Outlier AI*  
+
+- Evaluated AI-generated code, developed and managed the SQL pipeline for Flamingo Coding's MultiTurn Deviations.
+- Conducted performance evaluation of AI-generated code, providing feedback based on real-world use cases.
+- Analyzed large datasets to extract actionable insights, enhancing model accuracy of AI applications.
+
+---
+
+## 💻 Technical Skills
+
+**Languages and Frameworks:**  
+Java, Scala, Python, C++, C, Play Framework, .NET, HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJS
+
+**Libraries:**  
+Gremlin, JanusGraph, MongoDB, MySQL, Cassandra, AWS SDK, Rekognition, SQS, Pandas, NumPy
+
+**Tools:**  
+Postman, Git, Docker, Kubernetes, CI/CD (Jenkins), Apache Tomcat, AWS (EC2, S3, SQS, Lambda), SQL Developer, Terraform, Maven
 
 
 ## 🌐 Socials:
